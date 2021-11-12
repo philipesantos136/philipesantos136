@@ -29,7 +29,7 @@
 <div align="center">
   <h3>Github Stats</h3>
   <br>
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=philipesantos136&show_icons=true&theme=radical"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=philipesantos136&show_icons=true&theme=gruvbox"/>
 </div>
 
 ---
