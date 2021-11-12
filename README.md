@@ -10,7 +10,7 @@
 <br>
 
 <table align="left">
- <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README.md">Português</a></td></tr>
  <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
@@ -21,7 +21,6 @@
 
 <div align="left">
   <p>🌱 Atualmente estou fazendo a formação cientista de Dados da Data science academy.</p>
-  <p>💬 Ajuda e dicas são sempre bem-vindas!</p>
   <p>🚀 Trabalho em equipe é um dos meus principais core values, então se quiser contribuir, fique a vontade!.</p>
 </div>
 
@@ -37,7 +36,7 @@
 ---
 <div align="center">
   <h3>Estudando</h3>
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
