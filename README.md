@@ -20,7 +20,7 @@
 
 <div align="left">
   <p>🌱 Atualmente estou fazendo a formação cientista de Dados da Data science academy.</p>
-  <p>🚀 Trabalho em equipe é um dos meus principais core values, então se quiser contribuir, fique a vontade!.</p>
+  <p>🚀 Também estou estudando para tirar a certificação AWS Certified Solutions Architect – Associate.</p>
 </div>
 
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/philipe-santos-0a2633179/)
