@@ -19,8 +19,9 @@
 <br>
 
 <div align="left">
-  <p>🌱 Atualmente estou fazendo a formação cientista de Dados da Data science academy.</p>
-  <p>🚀 Também estou estudando para tirar a certificação AWS Certified Solutions Architect – Associate.</p>
+  <p>🌱 Atualmente estou fazendo a formação Engenheiro de Machine Learning na Data Science Scademy.</p>
+  <p>🚀 Possuo certificação AWS Certified Solutions Architect – Associate</p>
+  <p> Estou inscrito no Bootcamp GCP certified program, 10 semanas de intensivo para certificação GCP Professional Machine Learning Engineer.</p>
 </div>
 
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/philipe-santos-0a2633179/)
