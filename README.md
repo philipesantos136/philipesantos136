@@ -9,14 +9,14 @@
 
 <br>
 
-<table align="left">
- <tr><td><a href="README.md">Português</a></td></tr>
-<tr><td><a href="README-English">English</a></td></tr>
+<table>
+  <tr>
+    <td><a href="README.md">Português</a></td>
+    <td align="right"><a href="README-English">English</a></td>
+  </tr>
 </table>
 
-<br>
-<br>
-<br>
+
 <br>
 
 <div align="left">
