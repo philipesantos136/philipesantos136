@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td><a href="README.md">Português</a></td>
-    <td align="right"><a href="README-English">English</a></td>
+    <td align="right"><a href="README-English.md">English</a></td>
   </tr>
 </table>
 
