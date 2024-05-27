@@ -36,13 +36,13 @@
 ---
 <div align="center">
   <h3>Estudando</h3>
+  <img align="center" alt="Google Cloud" height="110" width="110" src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="AWS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Python" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">  
   <img align="center" alt="Numpy" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Pandas" height="40" width="70" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="PyCharm" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg">
-  <img align="center" alt="TensorFlow" height="25" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Pandas" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="TensorFlow" height="35" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <br>
   
 </div>
