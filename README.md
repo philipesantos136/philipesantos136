@@ -19,8 +19,8 @@
 <br>
 
 <div align="left">
-  <p>🌱 Atualmente estou fazendo a formação Engenheiro de Machine Learning na Data Science Scademy.</p>
-  <p>🚀 Possuo certificação AWS Certified Solutions Architect – Associate</p>
+  <p> Atualmente estou fazendo a formação Engenheiro de Machine Learning na Data Science Scademy.</p>
+  <p> Possuo certificação AWS Certified Solutions Architect – Associate</p>
   <p> Estou inscrito no Bootcamp GCP certified program, 10 semanas de intensivo para certificação GCP Professional Machine Learning Engineer.</p>
 </div>
 
